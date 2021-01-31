@@ -1,0 +1,3 @@
+include ':polar_sdk'
+include ':app'
+rootProject.name = "polar_plugin"
